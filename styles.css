@@ -178,6 +178,9 @@ body{
     letter-spacing: -1px;
     margin: 0;
   }
+  .navbar-list li{
+    margin: 0 5px 0 5px;
+  }
   #home-container{
     display: block;
     text-align: center;
